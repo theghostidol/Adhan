@@ -1,6 +1,6 @@
-# Flutter Music App with BLoC
+# Adhan app build with Flutter 'with BLoC
 
-A Flutter music streaming application that allows users to play audio files from local storage. The app features a beautiful neumorphic UI design and provides a smooth user experience for browsing and playing music.
+A Flutter audio streaming application that allows users to play audio files from local storage. The app features a beautiful neumorphic UI design and provides a smooth user experience for browsing and playing music.
 
 ## Screenshots
 
